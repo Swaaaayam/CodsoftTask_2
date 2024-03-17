@@ -1,0 +1,67 @@
+.c1{
+    height: 500px;
+    background-image: url("c1.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.c1 h2 {
+    font-family: Tahoma, Verdana, sans-serif;
+    color:white;
+    font-weight: 700;
+    padding-left: 115px;
+    padding-top: 10%;
+}
+.c1 p {
+    font-family: Tahoma, Verdana, sans-serif;
+    color:white;
+    padding-left: 115px;
+}
+.c2{
+    padding-left: 115px; 
+}
+.container h3 {
+    font-family: "Aclonica";
+    font-size: 34px;
+    font-weight: 900;
+}
+.c3 h3{
+    font-family: Tahoma, Verdana, sans-serif;  
+}
+.c3{
+    display: flex;
+    padding: 20px;
+    padding-left: 160px;
+    margin: 30px;
+    border: 20px solid rgb(205, 74, 74);
+    border-radius: 35px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+.c4{
+    color: white;
+}
+.col-md-4 {
+    padding-left: 115px;
+    padding-right: 115px;
+}  
+.so{
+    font-family: "Aclonica";
+    color: white;
+}
+.c5{
+    display: grid;
+    margin: 20px;
+    padding: 4px;
+    border: 20px solid rgb(205, 74, 74);
+    border-radius: 35px;
+    grid-template-columns: repeat(3,200px);
+}
+.c5 h2{
+    margin-left: 115px;
+    font-weight: 700;
+    padding-bottom: 5px ;
+}
+img{
+    border-radius: 50%;
+
+}
